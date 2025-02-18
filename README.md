@@ -1,4 +1,4 @@
-# SocialBuzz-Accenture_DataAnalytics
+# SocialBuzz- A Social Media Company
 
 Accenture North America - Data Analytics & Visualization Job Simulation
 
